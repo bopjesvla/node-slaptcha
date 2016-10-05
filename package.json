@@ -1,0 +1,19 @@
+{
+  "name": "slaptcha",
+  "version": "1.0.0",
+  "description": "It's SLAPTCHA validation for Node, I guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Bob",
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopjesvla/node-slaptcha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bopjesvla/node-slaptcha/issues"
+  },
+  "homepage": "https://github.com/bopjesvla/node-slaptcha#readme"
+}
